@@ -1,2 +1,2 @@
-# the-goc-website
-funny
+# Funny website
+fuck css, all my homies hate css
